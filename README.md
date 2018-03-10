@@ -76,7 +76,7 @@ How to convert dotnet mvc app into using Bootstrap 4
 </head>
 <body>
     <nav class="navbar navbar-expand-md navbar-dark bg-dark">
-        <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand">MyTecBits.com</a>
+        <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand">TestingApp</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
         data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
         aria-expanded="false" aria-label="Toggle navigation">
