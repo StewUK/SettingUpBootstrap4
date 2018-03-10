@@ -59,6 +59,9 @@ https://stackoverflow.com/questions/48481003/how-to-use-bootstrap-4-in-asp-net-c
   }
 ]
 ```
+
+-- Run "dotnet build"
+
 -- Amend _Layout.cshtml
 ```
 <!DOCTYPE html>
