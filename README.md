@@ -1,6 +1,9 @@
 # SettingUpBootstrap4
 How to convert dotnet mvc app into using Bootstrap 4
 
+http://www.mytecbits.com/microsoft/dot-net/bootstrap-asp-net-core-mvc
+https://stackoverflow.com/questions/48481003/how-to-use-bootstrap-4-in-asp-net-core
+
 -- Create package.json in root
 ```
 {
